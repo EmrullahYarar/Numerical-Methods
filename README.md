@@ -1,1 +1,1 @@
-2024 Second Term Course Lab files for Numerical Methods at Cukurova University.
+2024 Second Term Numerical Methods Course Lab files at Cukurova University.
